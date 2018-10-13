@@ -1,0 +1,20 @@
+.saved-header{
+    margin-top:20px;
+    font-weight:bold;
+    
+}
+.saved-container{
+    background-color:lightblue;
+    border-radius:10px;
+    margin-top:40px;
+}
+.buttons-right{
+    float:right;
+}
+.buttons-right button{
+    float:right;
+}
+.float-left{
+    float:left;
+    clear:both;
+}
