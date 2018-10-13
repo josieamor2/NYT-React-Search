@@ -1,6 +1,11 @@
 {
   "name": "mern",
+  "homepage" : "http://josieamor2.github.io/NYT-React-Search",
   "version": "1.0.0",
+  "engines": {
+    "npm": "6.4.1",
+    "node": "10.12.0"
+  },
   "description": "Mern Demo",
   "main": "server.js",
   "scripts": {
